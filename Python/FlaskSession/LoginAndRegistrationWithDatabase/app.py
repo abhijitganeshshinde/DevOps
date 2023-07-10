@@ -37,7 +37,7 @@ if __name__ == '__main__':
 # app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://abhi:abhi@localhost/devops'
 # # app.config['MONGO_URI'] = 'mongodb://localhost:27017/devops'
 
-# app.config['MONGO_URI'] = 'mongodb+srv://abhi:bi39msm5Vo8G6gyZ@cluster0.bta0sbt.mongodb.net/devops'
+# app.config['MONGO_URI'] = 'mongodb+srv://abhi:@cluster0.bta0sbt.mongodb.net/devops'
 
 # db = SQLAlchemy(app)
 # mongo = PyMongo(app)

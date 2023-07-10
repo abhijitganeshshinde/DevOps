@@ -1,7 +1,7 @@
 from flask import Flask,request,jsonify
 from pymongo import MongoClient
 
-client = MongoClient('mongodb+srv://abhi:bi39msm5Vo8G6gyZ@cluster0.bta0sbt.mongodb.net')
+client = MongoClient('mongodb+srv://abhi:@cluster0.bta0sbt.mongodb.net')
 db = client['myshop']
 itemcollection = db['items']
 

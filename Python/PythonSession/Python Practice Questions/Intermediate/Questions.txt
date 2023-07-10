@@ -1,0 +1,25 @@
+Q1. Write a Python program to find the second largest number in a list.
+Q2. Write a Python program to count the frequency of each element in a list.
+Q3. Write a Python program to find the intersection of two lists.
+Q4. Write a Python program to check if a string is an anagram of another string.
+Q5. Write a Python program to find the sum of all prime numbers in a given range.
+Q6. Write a Python program to find the highest occurring character in a string.
+Q7. Write a Python program to implement a binary search algorithm.
+Q8. Write a Python program to reverse the order of words in a sentence.
+Q9. Write a Python program to find the longest common prefix among a list of strings.
+Q10. Write a Python program to find the first non-repeating character in a string.
+Q11. Write a Python program to sort a list of dictionaries based on a specific key.
+Q12. Write a Python program to find the maximum subarray sum in a given list of integers.
+Q13. Write a Python program to implement a stack using a list.
+Q14. Write a Python program to convert a decimal number to binary.
+Q15. Write a Python program to find the missing number in a given list of consecutive numbers.
+Q16. Write a Python program to check if a binary tree is a binary search tree.
+Q17. Write a Python program to find the prime factors of a number.
+Q18. Write a Python program to remove duplicate characters from a string.
+Q19. Write a Python program to implement a queue using two stacks.
+Q20. Write a Python program to find the kth largest element in an unsorted list.
+Q21. Write a Python program to find the maximum difference between two elements in an array such that the larger element appears after the smaller element.
+Q22. Write a Python program to find the longest substring without repeating characters in a given string.
+Q23. Write a Python program to implement a circular linked list.
+Q24. Write a Python program to find the roots of a quadratic equation.
+Q25. Write a Python program to implement a binary search tree and perform operations such as insertion, deletion, and searching.

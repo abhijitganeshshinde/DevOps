@@ -1,0 +1,25 @@
+Q1. Write a Python program to find the longest substring without repeating characters in a given string.
+Q2. Write a Python program to implement a depth-first search (DFS) algorithm for a graph traversal.
+Q3. Write a Python program to implement a breadth-first search (BFS) algorithm for a graph traversal.
+Q4. Write a Python program to find the shortest path between two nodes in a graph using Dijkstra's algorithm.
+Q5. Write a Python program to implement a merge sort algorithm for sorting a list of numbers.
+Q6. Write a Python program to implement a quicksort algorithm for sorting a list of numbers.
+Q7. Write a Python program to implement a binary search algorithm for searching an element in a sorted list.
+Q8. Write a Python program to find the maximum flow in a network using the Ford-Fulkerson algorithm.
+Q9. Write a Python program to implement an autocomplete system using a trie data structure.
+Q10. Write a Python program to implement a regular expression matcher using recursive backtracking.
+Q11. Write a Python program to implement a topological sort algorithm for a directed acyclic graph.
+Q12. Write a Python program to find the longest increasing subsequence in a list of numbers.
+Q13. Write a Python program to implement an efficient algorithm for pattern matching and substring searching.
+Q14. Write a Python program to implement a depth-limited search algorithm for a graph traversal.
+Q15. Write a Python program to implement an algorithm for finding the maximum bipartite matching in a graph.
+Q16. Write a Python program to implement a minimum spanning tree algorithm using Kruskal's algorithm.
+Q17. Write a Python program to implement an efficient algorithm for finding the kth smallest element in an unsorted list.
+Q18. Write a Python program to implement an algorithm for finding the maximum sum subarray in a given list of integers.
+Q19. Write a Python program to implement a heap data structure and perform operations such as insertion, deletion, and finding the minimum element.
+Q20. Write a Python program to implement an efficient algorithm for checking whether a string is a palindrome or not.
+Q21. Write a Python program to implement an algorithm for calculating the factorial of a given number.
+Q22. Write a Python program to implement an algorithm for finding the maximum subarray product in a given list of numbers.
+Q23. Write a Python program to implement an efficient algorithm for checking whether a number is prime or not.
+Q24. Write a Python program to implement an algorithm for calculating the square root of a given number.
+Q25. Write a Python program to implement an efficient algorithm for finding the GCD (Greatest Common Divisor) of two numbers

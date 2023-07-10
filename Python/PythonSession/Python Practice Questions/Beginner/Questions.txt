@@ -1,0 +1,25 @@
+Q1. Write a Python program to check if a number is even or odd.
+Q2. Write a Python program to find the factorial of a number.
+Q3. Write a Python program to check if a number is prime.
+Q4. Write a Python program to reverse a string.
+Q5. Write a Python program to check if a string is a palindrome.
+Q6. Write a Python program to find the largest number in a list.
+Q7. Write a Python program to count the number of vowels in a string.
+Q8. Write a Python program to remove duplicates from a list.
+Q9. Write a Python program to find the sum of all elements in a list.
+Q10. Write a Python program to find the length of a string.
+Q11. Write a Python program to find the average of a list of numbers.
+Q12. Write a Python program to find the largest and smallest numbers in a list.
+Q13. Write a Python program to check if a year is a leap year.
+Q14. Write a Python program to find the common elements between two lists.
+Q15. Write a Python program to find the Fibonacci series up to a given number of terms.
+Q16. Write a Python program to convert Celsius to Fahrenheit.
+Q17. Write a Python program to find the square root of a number.
+Q18. Write a Python program to find the common characters between two strings.
+Q19. Write a Python program to generate a random number between a given range.
+Q20. Write a Python program to sort a list of numbers in ascending order.
+Q21. Write a Python program to count the occurrences of each element in a list.
+Q22. Write a Python program to calculate simple interest.
+Q23. Write a Python program to calculate compound interest.
+Q24. Write a Python program to find the median of a list of numbers.
+Q25. Write a Python program to find the sum of all even numbers in a list
